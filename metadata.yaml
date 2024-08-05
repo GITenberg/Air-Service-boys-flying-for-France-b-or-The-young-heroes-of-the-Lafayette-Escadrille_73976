@@ -1,0 +1,43 @@
+_repo: Air-Service-boys-flying-for-France-b-or-The-young-heroes-of-the-Lafayette-Escadrille_73976
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herbert, Robert Gaston
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '31635'
+    url: http://www.gutenberg.org/2009/agents/31635
+creator:
+  author:
+    agent_name: Beach, Charles Amory
+    gutenberg_agent_id: '2050'
+    url: http://www.gutenberg.org/2009/agents/2050
+description: ''
+gutenberg_issued: '2024-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73976'
+  lccn: '18010273'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5hp4&view=1up&seq=7
+pgterms:marc905: 20221124112204beach
+pgterms:marc906: '1918'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGeorge Sully & Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcsh 'Parmly, Jack (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Raymond, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Air pilots, Military -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Air Service boys flying for France : $b or, The young heroes of the Lafayette
+  Escadrille'
+url: http://www.gutenberg.org/ebooks/73976
